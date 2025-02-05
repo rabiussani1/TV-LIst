@@ -1,0 +1,339 @@
+#EXTM3U
+
+#EXTINF:-1, GTV
+http://10.10.10.2:84/fnf001/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TSportHD
+http://10.10.10.2:84/fnf003/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TSportHD
+http://23.255.0.10:8080/2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Jamuna TV
+http://23.255.0.10:8080/3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BanglaVISION
+http://23.255.0.10:8080/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BTV News
+http://23.255.0.10:8080/4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Dipto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,Rangeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekusy TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,Mytv HD
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1,Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1, METV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1,Nagorik TV
+https://stream.imotv.net/stream/j6Pcssm0vgzuaKE1fEhbGA/1738795253/nagorik-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DBC News
+https://stream.imotv.net/stream/BsdmOLGVDQaU2oRLTMI2kA/1738795307/dbc-news/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T SPORT HD
+https://stream.imotv.net/stream/9eRwi4XLd9S8ZFpdf166vg/1738795544/tsports/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Kal q4k
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
+#EXTINF:-1,Sony Kal q2k
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_1200k.m3u8
+#EXTINF:-1,HUM
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
+#EXTINF:-1,YRF
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1,YRFF
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb543d1e786c64869ed43d63cef344a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7550db80148b61299bce8c37683f03409a5e5afba358b1ebe10f118e6ea2b91b55c02c10b19f43c8814aa688dd5d9b5ed027f045c8c0f1ded016d0d7f359936790547338681dcbe0435ea837b9f7957330907d29094b1bb6e3dbc947328248544fb8d1ffff34af5d9ed265b66939ed54c30f9c66de22ea28b7f142a59abedd69482deb91083669f3b3e0c2d01d07904ab7e2e5d47879d9d1117b4cc6249801232a9ff0ce5bd59047d8e66dd5fa395d0bc197448994fdd6bce7c319ca57bfad9eaf344c4a6c1311c60cf2e80af51d9d29f880435b1f27228a955ac38adc24404147948f53d15356f9ec828ddb012cd9227c7eed73d24f0a7cc6573d2db535987a5dee32c8d7e3ea0d58ce8602900bd2f9b933b9b8091e/110/1280x720_2300392/index.m3u8
+#EXTINF:-1,Action Holloywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,Action Holloywood Moviess
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb543d1e786c64869ed43d63cef344a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7550db80148b61299bce8c37683f03409a5e5afba358b1ebe25413d065a4e04f55c02c10b19f43c8814aa6d1dc0ac85e8623f41799c1a2dfd2188184f359936790547338681dcbe0435ea837b9f7957330907d29094b1bb6e3dbc947328248544fb8d1ffff34af5d9ed265b66939ed54c30f9c66de22ea28b7f142a59abedd69482deb91083669f3b3e0c2d01d07904ab7e2e5d47879d9d1117b4cc6249801232a9ff0ce5bd59047d8e66dd5fa395d0bc197448994fdd6bce7c319ca57bfad9eaf344c4a6c1311c60cf2e80af51d9d29f880435b1f27228a955ac38adc24404147948f53d15356f9ec828ddb012cd9227c7eed73d24f0a7cc6563b2dfd4c19fbecd067fb6cb7465a18dc946a6f68bf7efb6594a18b/71/1280x720_2657600/index.m3u8
+
+
+#EXTINF:-1,Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1,Tara TV
+http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tara TV
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1,Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1,Colors Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1,Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+#EXTINF:-1,Zee Bangla Cinema
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1738850049~acl=%2f*~data=hdntl~hmac=7b81d65d2537a05579170d79484a89d896fbcf28ead68b0b661566f61161e7a3
+#EXTINF:-1,Star Jalsha
+http://192.168.91.8/streams/107/index.m3u8
+#EXTINF:-1,ZEE Bangla
+https://stream.imotv.net/stream/OMXXzPvpiovJx7I07abg_g/1738795180/zee-bangla/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,The Jungle book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1,Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZoMo TV
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1,ZOMO tv
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/cb543d1e786c64869ed43d63cef344a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7550db80148b61299bce8c37683f03409a5e5afba358b1ebb50b448d3ff5b91a55c02c10b49f43c8814aa6d2d70e995e8623f347999ba2ddd746d186f359936790547338681dcbe0435ea837b9f7957330907d29094b1bb6e3dbc947328248544fb8d1ffff34af5d9ed265b66939ed54c30f9c66de22ea28b7f142a59abedd69482deb91083669f3b3e0c2d01d07904ab7e2e5d47879d9d1117b4cc6249801232a9ff0ce5bd59047d8e66dd5fa395d0bc197448994fdd6bce7c319ca57bfad9eaf344c4a6c1311c60cf2e80af51d9d29f880435b1f27228a955ac38adc24404147948f53d15356f9ec828ddb012cd9227c7eed73d24f0a7cc6573d2ab335987a5db03dc8d7e391c551f1b1473f33c2f0f299abf72267/166/640x360_1020800/index.m3u8
+#EXTINF:-1,Kidz
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/213.m3u8?token=QhBYV0dYRg4TC1UEVwFWVAVcAFAAWlFdCVBSAlkEVlJYAwEEBgFWDAkaSBAQEEJXVQhvWgIbCVcIBxwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFNUCQIAFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAQYDAEYYE1sLRw0QQksWX15GClUfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAEMaQw9YSm9VW14KUVJMDV0NFxIIFlUSH0RUXAtQQF9DPkYIBhsIEgQNB1QAE0U=
+#EXTINF:-1,Animax
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8?token=QhBYV0dYRg4TCAFWBlUIBQVSUVECAFEEWAJSAQUFVVYAVgVUBVIGUgEaSBAQEEJXVQhvWgIbCVYVFkVCBEQ+C10QChQFAFAABQtGHkEQWV9RRwoDShtDDF0WChNTDlBTABAcFFFIEFFDVgVePABVRF0GVRFcV0YJVRgSXg9pBQdUU15SFgpGBBMURlsQFBIIWhBcX0obUQxNRlFFBBRbQAEGAxQYEgdbRFYQQBpGClxBCVwfRFxLEVxaQ1gOWENYG18DQwwSSBZYSztABhdEQFEEXVYUGwlHCBYcEwxXGT1aXV5YUVMQXV5WFxBZRgAQGEddXAhQRwpLa0BYBRRbQAsLCQYAEhk=
+#EXTINF:-1,Cartoonito
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8?token=QhBYV0dYRg4TDgYGW1QCVlUAVVBTDFAGDVYCV1NVBFcMUwBVV1JVVwMaSBAQEEJXVQhvWgIbCVYJARwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFBSCgsDFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAQcBB0YYE1sLRw0QQksWX15GClUfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAEMaQw9YSm9VW14KUVJMDV0NFxIIFlUSH0RUXAtQQF9DPkYIBhsIEgQNCFMDE0U=
+#EXTINF:-1,Cartoon Network
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8?token=QhBYV0dYRg4TClVUVgFUAQIGAwRRCABSCAYFBQQEBFsABFUGB1MGVVcaSBAQEEJXVQhvWgIbCVMBBBwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFRQDwQSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDgtFXwoVEQdQQEJQFVNDWBsDAQYAEkgWUlcRXBcWSRAOC0VfChURAEFAVV8SXw4MGwgSWwdFXBYdGg1BPBZVQUAXVVILXEFHAxYBE00UDANBbVNZWl4BV0VRC1wQRgoQBEccEQtWXQxNW0JuEV8FQAMQAwcGAVAWTA==
+#EXTINF:-1,Dunia Anek
+http://41.216.178.194:8008/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8?token=QhBYV0dYRg4TClUDVVQIVlBdUQYDCQNTClUDVwdXVwFdUAIFA1JWUQAaSBAQEEJXVQhvWgIbCVwJAxwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAkfR0ldVBNbFFBSAAMIDhYcRlFJTAFADQVcbVAARloFXBFfV0FcXU0UDgxmVlVbVV4AFgsaVBBPRllBREcKXRNVX0kbVllFE1cVBxsIEgcEAVcWHRoHXRYKREBNRwpdE1VfSRtRSEUEWBILVlwSDBZdV0EJGkgQChdvQFEWREEDWF4ASxYKE1AUTUBUU0hpV18KWlRbEFsMCkMQDkcAEUobXgpXXUReE2kRC10QChQGAl0HE0U=
+#EXTINF:-1,Fun Planet
+http://41.216.178.194:8008/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8?token=QhBYV0dYRg4TW1FUAlFTCgYDCQJfXAAAClcEAlFVAFtaBwFUVgJcB1AaSBAQEEJXVQhvWgIbCVYNAwkdQ0MSB0ttWVIWCkYFAQxQBlBGHBBADF1WRAMDSRtEWVVDDENTCQcHBgcSSBZUQBBXEQpRXmsBVUUPWlZHA1pFXQ0aQw1XbVRTWVEKUBMCRgJBSBJbRxUSCQhMXwkVFlJYFUQAFlwQChQFBl0GExRGUQwRXkZGHBIJCExfCRUWVUkVUw8RUF1eFA4SCQdEAEYeQQ1DbUYAQ0cUXFIIXEYSC0MHQ04bX1FOa1MLWl9dB0YKC15BFl8SA0QVEQhWWllFDkQ+ElBWEgwWAlUFARoZ
+#EXTINF:-1,Hore
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8?token=QhBYV0dYRg4TXFJUUwEJAARXVApQCVZTDwwBBgcDUVAOClQAUQUGVgAaSBAQEEJXVQhvWgIbCVQNBQAHTRQUEVxAb19QEl4WAAhQBldXEh4WEVleAxsJVRUWQFgFFFtACAIFAgISSBZUQBBXEQpRXmsBVUUPWlZHA1pFXQ0aQw1XbVRTWVEKUBMCRgJBSBJbRxUSCQhMXwkVFlJYFUQAFlwQChQFAFwMExRGUQwRXkZGHBIJCExfCRUWVUkVUw8RUF1eFA4SCQdEAEYeQQ1DbUYAQ0cUXFIIXEYSC0MHQ04bX1FOa1MLWl9dB0YKC15BFl8SA0QVEQhWWllFDkQ+ElBWEgwWA1UGAQpGTw==
+#EXTINF:-1,DreamWorks
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8?token=QhBYV0dYRg4TW1xWWlMDAVZRCQNWXVBXClIDB1MGWFsIUwUFAFZQBgQaSBAQEEJXVQhvWgIbCVYLAQIITRQUEVxAb19QEl4WAAhQBldXEh4WEVleAxsJVRUWQFgFFFtAAQAFDhYcRlFJTAFADQVcbVAARloFXBFfV0FcXU0UDgxmVlVbVV4AFgsaVBBPRllBREcKXRNVX0kbVllFE1cVBxsIEgQFCVEWHRoHXRYKREBNRwpdE1VfSRtRSEUEWBILVlwSDBZdV0EJGkgQChdvQFEWREEDWF4ASxYKE1AUTUBUU0hpV18KWlRbEFsMCkMQDkcAEUobXgpXXUReE2kRC10QChQHAVUNBxoZ
+#EXTINF:-1,C N
+https://stream.imotv.net/stream/74TBrAqrlm4Zhgy_8F7olw/1738795345/cartoon-netwok/tracks-v1a1/mono.m3u8
+#EXTINF:-1,C N HD
+https://stream.imotv.net/stream/ZwlKAR48AhqIXAGcKT7cEg/1738795394/cartoon-netwok-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DK
+https://stream.imotv.net/stream/89aJWveOCCPEOMoR0gq1ow/1738795423/discovery-kids/index.m3u8
+#EXTINF:-1,DK
+https://stream.imotv.net/stream/89aJWveOCCPEOMoR0gq1ow/1738795423/discovery-kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1,POGO
+https://stream.imotv.net/stream/E2UUzi6HUlRvtx45RkilYw/1738795471/pogo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony YaY
+https://stream.imotv.net/stream/8REscpMqP71S4wZG0hYVng/1738795510/sony-yay/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,WildEarth q720p
+https://wildearth-plex.amagi.tv/masterR720P.m3u8#EXTINF:-1,
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1,TravelXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,TravelXPP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1,Animal Planet
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+
+
+#EXTINF:-1, Star Sport
+http://10.10.10.2:84/fnf002/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Spors1 HD
+http://192.168.91.8/streams/118/index.m3u8
+#EXTINF:-1, Ten Cricket
+http://10.10.10.2:84/fnf004/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Spors2 HD
+http://192.168.91.8/streams/117/index.m3u8
+#EXTINF:-1,Star Spors1
+http://192.168.91.8/streams/109/index.m3u8
+#EXTINF:-1,Star Spors2 
+http://192.168.91.8/streams/115/index.m3u8
+#EXTINF:-1, Sony Sport1
+http://192.168.91.8/streams/106/index.m3u8
+#EXTINF:-1,Sony Sport2
+http://192.168.91.8/streams/119/index.m3u8
+#EXTINF:-1,Sony Sport3
+http://192.168.91.8/streams/110/index.m3u8
+#EXTINF:-1, Sport18
+http://192.168.91.8/streams/111/index.m3u8
+#EXTINF:-1,Urosport
+http://192.168.91.8/streams/116/index.m3u8
+#EXTINF:-1,ARY SPort
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1,ARY Sport
+http://125.209.88.166:45793/BRN/ArySports.stream/chunklist_w871431961.m3u8
+#EXTINF:-1,Bein Sport Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1,EuroSport1 HD
+http://185.189.225.157/EuroSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EuroSport2 HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1,RedBulTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/02.m3u8
+#EXTINF:-1,TenSport HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1,TenSport HD
+http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w602993229.m3u8
+#EXTINF:-1,RTV Sport
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1,Dubai SPort2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1,Dubai Sport3 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1,MUTV
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1,PSJtv
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1,RMtv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1,PTV
+https://stream.imotv.net/stream/u-m8Xa5NVbQJ39sSXYVOBA/1738795602/PTV-sports/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1, Alzajeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,Ndtv Q720p
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_720p@3.m3u8
+#EXTINF:-1,NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1,Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox q720p
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+
+
+
+#EXTINF:-1,Sony televison HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+#EXTINF:-1,Sony televison HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyentertainmnt_hd_576/sonyentertainmnt_hd_576.m3u8?bitrate=1000000&channel=sonyentertainmnt_hd_576&gp_id=
+#EXTINF:-1,Sony televison HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyentertainmnt_hd_576/sonyentertainmnt_hd_576.m3u8?bitrate=1000000&channel=sonyentertainmnt_hd_576&gp_id
+#EXTINF:-1,Sony televison 
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+#EXTINF:-1,Sony televison 
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_entertainment_576/sony_entertainment_576.m3u8?bitrate=1000000&channel=sony_entertainment_576&gp_id=
+#EXTINF:-1,Sony televison 
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_entertainment_576/sony_entertainment_576.m3u8?bitrate=1000000&channel=sony_entertainment_576&gp_id
+#EXTINF:-1,Zee Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
+#EXTINF:-1,Zee Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=1000000&channel=zee_bangla_576&gp_id=
+#EXTINF:-1,Zee Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=1000000&channel=zee_bangla_576&gp_id
+#EXTINF:-1,Zee Bangla Cinema
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_cinema_576/zee_bangla_cinema_576.m3u8?bitrate=1000000&channel=zee_bangla_cinema_576&gp_id
+#EXTINF:-1,POGO
+https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
+#EXTINF:-1,PoGO
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/pogo_sd_576/pogo_sd_576.m3u8?bitrate=1000000&channel=pogo_sd_576&gp_id=
+#EXTINF:-1,Animal Planet
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
+#EXTINF:-1,Animal Planet
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/animal_planet_hd_576/animal_planet_hd_576.m3u8?bitrate=1000000&channel=animal_planet_hd_576&gp_id=
+#EXTINF:-1,Sony aat
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
+#EXTINF:-1,Sony aat
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyaath_576/sonyaath_576.m3u8?bitrate=1000000&channel=sonyaath_576&gp_id=
+#EXTINF:-1,B4U Movies
+https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
+#EXTINF:-1,B4U Movies
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4u_movies_576/b4u_movies_576.m3u8?bitrate=1000000&channel=b4u_movies_576&gp_id=
+#EXTINF:-1,SONY SAB HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
+#EXTINF:-1,SONY SAB HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonysab_hd_576/sonysab_hd_576.m3u8?bitrate=1000000&channel=sonysab_hd_576&gp_id=
+#EXTINF:-1,SONY MAX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
+#EXTINF:-1,SONY MAX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_hd_576/sony_max_hd_576.m3u8?bitrate=1000000&channel=sony_max_hd_576&gp_id=
+#EXTINF:-1,SONY MAX
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
+#EXTINF:-1,SONY MAX
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_576/sony_max_576.m3u8?bitrate=1000000&channel=sony_max_576&gp_id=
+#EXTINF:-1,SONY PIX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
+#EXTINF:-1,SONY PIX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonypix_hd_576/sonypix_hd_576.m3u8?bitrate=1000000&channel=sonypix_hd_576&gp_id
+#EXTINF:-1,Discovery HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8
+#EXTINF:-1,Discovery HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_hd_576/discovery_hd_576.m3u8?bitrate=1000000&channel=discovery_hd_576&gp_id=
+#EXTINF:-1,B4U Movies
+https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
+#EXTINF:-1,B4U Movies
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4u_movies_576/b4u_movies_576.m3u8?bitrate=1000000&channel=b4u_movies_576&gp_id=
+#EXTINF:-1,SONY MAX 2
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
+#EXTINF:-1,SONY MAX 2
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonymax_2_576/sonymax_2_576.m3u8?bitrate=1000000&channel=sonymax_2_576&gp_id=
+#EXTINF:-1,SONY YAY
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
+#EXTINF:-1,SONY YAY
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8?bitrate=1000000&channel=sonyyay_576&gp_id=
+#EXTINF:-1,Discovery Kids
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_kids_576/discovery_kids_576.m3u8?bitrate=1000000&channel=discovery_kids_576&gp_id=
+#EXTINF:-1,Cartoon Network HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
+#EXTINF:-1,Cartoon Network HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cartoon_network_hd_576/cartoon_network_hd_576.m3u8?bitrate=1000000&channel=cartoon_network_hd_576&gp_id=
+#EXTINF:-1,Cartoon Network
+https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cartoon_network_sd_576/cartoon_network_sd_576.m3u8?bitrate=1000000&channel=cartoon_network_sd_576&gp_id=
+#EXTINF:-1,Animal Planet HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
+#EXTINF:-1,Animal Planet HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/animal_planet_hd_576/animal_planet_hd_576.m3u8?bitrate=1000000&channel=animal_planet_hd_576&gp_id=
+#EXTINF:-1,Discovery
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
+#EXTINF:-1,Discovery
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_sd_576/discovery_sd_576.m3u8?bitrate=1000000&channel=discovery_sd_576&gp_id=
+#EXTINF:-1,Discovery Science
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8
+#EXTINF:-1,Discovery Science
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_science_576/discovery_science_576.m3u8?bitrate=1000000&channel=discovery_science_576&gp_id=
+#EXTINF:-1,Discovery Turbo
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8
+#EXTINF:-1,Discovery Turbo
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/discovery_turbo_576/discovery_turbo_576.m3u8?bitrate=1000000&channel=discovery_turbo_576&gp_id=
+#EXTINF:-1,SONY SAB HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
+#EXTINF:-1,SONY SAB HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonysab_hd_576/sonysab_hd_576.m3u8?bitrate=1000000&channel=sonysab_hd_576&gp_id=
+#EXTINF:-1,TLC HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
+#EXTINF:-1,TLC HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/tlc_hd_576/tlc_hd_576.m3u8?bitrate=1000000&channel=tlc_hd_576&gp_id=
+#EXTINF:-1,Hum TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
+#EXTINF:-1,Hum TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/hum_tv_576/hum_tv_576.m3u8?bitrate=1000000&channel=hum_tv_576&gp_id=
+#EXTINF:-1,Hum Sitarey
+https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
+#EXTINF:-1,Hum Sitarey
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/hum_sitaray_576/hum_sitaray_576.m3u8?bitrate=1000000&channel=hum_sitaray_576&gp_id=
+
+
+
+
+
+
+#EXTINF:-1,Zee Bangla
+http://10.30.30.30:8088/301/index.fmp4.m3u8?token=459380bb29e63564144eab3098f88f0c0775ee37-c7cb50b07fac2c6a25e3fc21cb2e3613-1738795483-1738784683
+#EXTINF:-1,Star Jalsha
+http://10.30.30.30:8088/302/index.fmp4.m3u8?token=0cbb8a72071d821ba9e31d0e2ca801d59eb6456e-78713195367128773d400d6931dfada2-1738795539-1738784739
+#EXTINF:-1,Jalsha Movie
+http://10.30.30.30:8088/303/index.fmp4.m3u8?token=5c2cc7c5c9bf07e35d29c4a4f5b8319c7b4b27ff-ddac940411556544b65d9554c373e3dc-1738795570-1738784770
+#EXTINF:-1,Colors Bangla HD
+http://10.30.30.30:8088/304/index.fmp4.m3u8?token=5092867d2b68a2390157d426dba3938b0e6d7ac0-a6a70e25afcb798cb34140c38cbe8117-1738795598-1738784798
+#EXTINF:-1,Zee Bangla Cinema
+http://10.30.30.30:8088/305/index.fmp4.m3u8?token=497875cf47eeceb75db3f1bcbc5d5f1c86847cae-99a764f1dccdef890916384538a3a6f2-1738795648-1738784848
+#EXTINF:-1,Sony AAT
+http://10.30.30.30:8088/306/index.fmp4.m3u8?token=0792b271090cd10c29141e752ab95c21e818a731-976abd9376d3d7717a803a74d922e9bd-1738795678-1738784878
+#EXTINF:-1,Star Gold HD
+http://10.30.30.30:8088/402/index.fmp4.m3u8?token=287a90a9372cd78a17730ec515df9ab56a1e294f-d7ad148938c7d9b2bb633e526bcdb176-1738795746-1738784946
+#EXTINF:-1,Colors HD
+http://10.30.30.30:8088/405/index.fmp4.m3u8?token=47575f515653281d259d890d02492bfecb254297-faf3939b58297bd2be2e7e769f005b1f-1738795794-1738784994
+#EXTINF:-1,Zee Cinema HD
+http://10.30.30.30:8088/406/index.fmp4.m3u8?token=4085d7050cea3b063b4515823a1d1a3730e791fe-87233e5981ac6f2e17546541e8191a54-1738795834-1738785034
